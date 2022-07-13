@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "eshop-dcb54": {
+      "hosting": {
+        "eshop": [
+          "eshop-dcb54"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "eshop-dcb54"
+  }
+}
